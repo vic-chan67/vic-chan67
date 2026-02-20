@@ -2,7 +2,8 @@
 Computer science graduate constantly building, training, and learning.
 
 ## Current Projects
-Real-time translation of British Sign Language (BSL) alphabet fingerspelling
+- Real-time translation of British Sign Language (BSL) alphabet fingerspelling
+- JavaScript learning/practicing on Exercism
 
 ## Previous Projects
 ### Real-Time Translation of Road Signs App
